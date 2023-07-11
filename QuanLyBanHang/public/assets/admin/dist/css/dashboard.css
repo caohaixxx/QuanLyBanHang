@@ -1,0 +1,14 @@
+.amount {
+    display: flex;
+    justify-content: space-between;
+}
+
+.amount .item {
+    width: 17%;
+}
+.filter{
+    padding-top: 32px;
+}
+#fillter{
+    height: 40px;
+}
